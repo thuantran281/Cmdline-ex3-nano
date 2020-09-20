@@ -1,3 +1,15 @@
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ mkdir ex3
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ cd /e/Cmdline-vietthuan/ex3
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/ex_3 (master)
+$ touch example.txt
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/ex_3 (master)
+$ nano example.txt
+
 ctrl+x(choose y/n): choose or not save and exit 
 ctrl+w: where is
 ctrl+u: paste text
